@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://benjamb.github.io
+title: benjamb
+tagline: A blog, of sorts.
+description: My awesome new site
+paginate: 5
